@@ -1,7 +1,6 @@
 ### Hi! Eu sou a Juliana Rezende👋
 
 - 🌱 Atualmente cursando analise e desenvolvimento de sistema
-- 
 - 😄 Pronouns: Ela/Dela
 
 # 📊 Stats:
