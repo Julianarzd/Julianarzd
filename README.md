@@ -6,8 +6,10 @@
 # 📊 Stats:
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Julianarzd&theme=neon&hide_border=false&include_all_commits=false&count_private=false&show_icons=true"  width="364px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianarzd&hide_progress=true&theme=neon">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianarzd&theme=neon&hide_border=false"  width="400px" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianarzd&hide_progress=true&theme=neon">  
+  
+   
 </div>
  
 
