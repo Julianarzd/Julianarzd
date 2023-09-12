@@ -1,7 +1,7 @@
 ### Hi! Eu sou a Juliana Rezende👋
 
 - 🌱 Atualmente estudanto front-end
-- 
+  
 
 
 # 📊 Stats:
