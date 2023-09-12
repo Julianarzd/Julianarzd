@@ -1,13 +1,14 @@
 ### Hi! Eu sou a Juliana Rezende👋
 
 - 🌱 Atualmente estudanto front-end
+- 
 
 
 # 📊 Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Julianarzd&theme=neon&hide_border=false&include_all_commits=false&count_private=false&show_icons=true"  width="364px" align="center"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Julianarzd&theme=neon&hide_border=false"  width="364px" align="center"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianarzd&theme=neon&hide_border=false"  width="364px" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianarzd&hide_progress=true&theme=neon"  width="364px" align="center"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianarzd&hide_progress=true&theme=neon&hide_border=false"  width="364px" align="center"/> 
   
    
 </div>
