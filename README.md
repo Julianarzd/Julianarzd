@@ -6,8 +6,8 @@
 
 # 📊 Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Julianarzd&theme=neon&hide_border=true"  width="364px" align="center"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianarzd&hide_progress=true&theme=neon&hide_border=true" width="364px" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Julianarzd&theme=neon&hide_border=true&hide_progressfalse"  width="400px" align="center"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianarzd&layout=compact&hide_progress=false&theme=neon&hide_border=true" width="370px" align="center"/>
  
 </div>
  
