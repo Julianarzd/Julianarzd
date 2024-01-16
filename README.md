@@ -1,6 +1,7 @@
 ### Hi! Eu sou a Juliana Rezende👋
 
-- 🌱 Atualmente estudanto front-end
+- 🎓 Análise e Desenvolvimento de Sistemas (ADS)
+- 🌱 Atualmente estudanto desenvolvimento web
   
 
 
